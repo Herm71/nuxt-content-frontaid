@@ -1,3 +1,7 @@
 {
-  "custom-field": "Test description"
+  "custom-field": "Test description",
+  "custom-object": {
+    "custom-line": "Custom Object Custom Line",
+    "custom-text": "Custom Text"
+  }
 }
